@@ -14,12 +14,12 @@ jobs:
           go-version: '1.25.6'
       
       - name: Install go-readme-stats
-        run: go install github.com/Sawawa42/go-readme-stats/cmd/main@latest
+        run: go install github.com/Sawawa42/go-readme-stats/cmd@latest
       
       - name: Generate stats
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_GITHUB_TOKEN }}
-        run: main -x=Kotlin
+        run: cmd -x=Kotlin
 
       - name: Commit and push changes
         run: |
