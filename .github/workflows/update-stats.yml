@@ -23,7 +23,7 @@ jobs:
       - name: Generate stats
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_GITHUB_TOKEN }}
-        run: cmd -x=Kotlin
+        run: cmd -x=Kotlin,PHP,HTML,CSS,PLpgSQL,Nix,Dockerfile,Dart
 
       - name: Commit and push changes
         run: |
