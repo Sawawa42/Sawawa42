@@ -1,4 +1,5 @@
 <p align="left"> 
+    <img src="./generated/language-stats.svg" />
 </p>
 
 <!---
