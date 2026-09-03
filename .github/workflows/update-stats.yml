@@ -23,7 +23,7 @@ jobs:
       - name: Generate stats
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_GITHUB_TOKEN }}
-        run: cmd -i=Go,TypeScript,JavaScript,C,C++
+        run: cmd -i=Go,TypeScript,JavaScript,C,C++,Python
 
       - name: Commit and push changes
         run: |
