@@ -4,27 +4,27 @@
 
   <text x="20" y="77" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">C</text>
   <rect x="110" y="60" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="60" width="109" height="20" fill="#555555" rx="3"/>
-  <text x="470" y="77" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">31.3% (469.9 KB)</text>
+  <rect x="110" y="60" width="123" height="20" fill="#555555" rx="3"/>
+  <text x="470" y="77" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">35.3% (621.8 KB)</text>
 
-  <text x="20" y="110" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">C++</text>
+  <text x="20" y="110" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">Go</text>
   <rect x="110" y="93" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="93" width="73" height="20" fill="#f34b7d" rx="3"/>
-  <text x="470" y="110" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">21.0% (316.2 KB)</text>
+  <rect x="110" y="93" width="80" height="20" fill="#00ADD8" rx="3"/>
+  <text x="470" y="110" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">23.0% (404.1 KB)</text>
 
-  <text x="20" y="143" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">Go</text>
+  <text x="20" y="143" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">C++</text>
   <rect x="110" y="126" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="126" width="70" height="20" fill="#00ADD8" rx="3"/>
-  <text x="470" y="143" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">20.1% (301.8 KB)</text>
+  <rect x="110" y="126" width="62" height="20" fill="#f34b7d" rx="3"/>
+  <text x="470" y="143" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">18.0% (316.2 KB)</text>
 
   <text x="20" y="176" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">TypeScript</text>
   <rect x="110" y="159" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="159" width="67" height="20" fill="#3178c6" rx="3"/>
-  <text x="470" y="176" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">19.3% (290.1 KB)</text>
+  <rect x="110" y="159" width="58" height="20" fill="#3178c6" rx="3"/>
+  <text x="470" y="176" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">16.6% (292.4 KB)</text>
 
   <text x="20" y="209" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">JavaScript</text>
   <rect x="110" y="192" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="192" width="29" height="20" fill="#f1e05a" rx="3"/>
-  <text x="470" y="209" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">8.3% (125.2 KB)</text>
+  <rect x="110" y="192" width="24" height="20" fill="#f1e05a" rx="3"/>
+  <text x="470" y="209" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">7.1% (125.6 KB)</text>
 
 </svg>
