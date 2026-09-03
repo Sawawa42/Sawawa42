@@ -1,30 +1,35 @@
-<svg width="600" height="245" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="245" fill="#ffffff" rx="10"/>
+<svg width="600" height="278" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="278" fill="#ffffff" rx="10"/>
   <text x="20" y="40" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="18" font-weight="bold" fill="#2f80ed">Language Statistics</text>
 
-  <text x="20" y="77" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">C</text>
+  <text x="20" y="77" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">Python</text>
   <rect x="110" y="60" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="60" width="123" height="20" fill="#555555" rx="3"/>
-  <text x="470" y="77" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">35.3% (621.8 KB)</text>
+  <rect x="110" y="60" width="121" height="20" fill="#3572A5" rx="3"/>
+  <text x="470" y="77" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">34.6% (931.7 KB)</text>
 
-  <text x="20" y="110" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">Go</text>
+  <text x="20" y="110" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">C</text>
   <rect x="110" y="93" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="93" width="80" height="20" fill="#00ADD8" rx="3"/>
-  <text x="470" y="110" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">23.0% (404.1 KB)</text>
+  <rect x="110" y="93" width="80" height="20" fill="#555555" rx="3"/>
+  <text x="470" y="110" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">23.1% (621.8 KB)</text>
 
-  <text x="20" y="143" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">C++</text>
+  <text x="20" y="143" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">Go</text>
   <rect x="110" y="126" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="126" width="62" height="20" fill="#f34b7d" rx="3"/>
-  <text x="470" y="143" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">18.0% (316.2 KB)</text>
+  <rect x="110" y="126" width="52" height="20" fill="#00ADD8" rx="3"/>
+  <text x="470" y="143" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">15.0% (404.1 KB)</text>
 
-  <text x="20" y="176" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">TypeScript</text>
+  <text x="20" y="176" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">C++</text>
   <rect x="110" y="159" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="159" width="58" height="20" fill="#3178c6" rx="3"/>
-  <text x="470" y="176" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">16.6% (292.4 KB)</text>
+  <rect x="110" y="159" width="41" height="20" fill="#f34b7d" rx="3"/>
+  <text x="470" y="176" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">11.7% (316.2 KB)</text>
 
-  <text x="20" y="209" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">JavaScript</text>
+  <text x="20" y="209" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">TypeScript</text>
   <rect x="110" y="192" width="350" height="20" fill="#e1e4e8" rx="3"/>
-  <rect x="110" y="192" width="24" height="20" fill="#f1e05a" rx="3"/>
-  <text x="470" y="209" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">7.1% (125.6 KB)</text>
+  <rect x="110" y="192" width="38" height="20" fill="#3178c6" rx="3"/>
+  <text x="470" y="209" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">10.9% (292.4 KB)</text>
+
+  <text x="20" y="242" font-family="'Segoe UI', Ubuntu, monospace" font-size="14" fill="#333" font-weight="600">JavaScript</text>
+  <rect x="110" y="225" width="350" height="20" fill="#e1e4e8" rx="3"/>
+  <rect x="110" y="225" width="16" height="20" fill="#f1e05a" rx="3"/>
+  <text x="470" y="242" font-family="'Segoe UI', Ubuntu, monospace" font-size="12" fill="#666">4.7% (125.6 KB)</text>
 
 </svg>
